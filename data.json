@@ -75,36 +75,36 @@
 
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Soumya P G",
+            "image": ""
         },
         "campusLead": {
-            "name": "Elon Musk",
-            "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
+            "name": "Aswin",
+            "image": "https://drive.google.com/uc?export=view&id=1c7k3QItG65V9b8X_HXZiBCZzW5nv_73t"
         },
         "campusCoLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "eee",
+            "image": ""
         },
         "treasurer": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Soumya P G",
+            "image": ""
         },
         "technicalLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Anas ikku",
+            "image": "https://drive.google.com/uc?export=view&id=1l53A1NtiK9aTPqu8XxmpPgtulD0QVMIL"
         },
         "mediaLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Meera Vinod",
+            "image": "https://drive.google.com/uc?export=view&id=1w-uWBruQPNOn38rMnFC4I__rXUHrmsYr"
         },
         "contentLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Moothumma",
+            "image": "https://drive.google.com/uc?export=view&id=1iqluUl1xAU8qfg2a_rDBl8WRGVwHr8Po"
         },
         "operationLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Srinisha Balu",
+            "image": "https://drive.google.com/uc?export=view&id=1P29rXsv86nqOE4iz9dNLyy9ns8WJV-rx"
         }
     },
 
@@ -112,7 +112,7 @@
 
     "whatsAppLink": "",
 
-    "email": "mulearn@cce.edu.in",
+    "email": "",
 
     "linkedIn": "",
 
