@@ -7,36 +7,36 @@
 
     "events": [
         {
-            "month": "Sep",
-            "date": "29",
+            "month": "Oct",
+            "date": "06",
             "head": "Event 1",
-            "para": "",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "para": "A creative brainstorming event where students collaborated to turn innovative ideas into practical solutions. Participants presented unique concepts addressing real-world challenges, showcasing their problem-solving and entrepreneurial thinking. The event encouraged teamwork, creativity, and the spirit of innovation — inspiring students to think beyond the classroom and build ideas that can create real impact.",
+            "img": "https://i.postimg.cc/vBFk77QS/image.png"
         },
         {
-            "month": "Sep",
-            "date": "27",
+            "month": "",
+            "date": "",
             "head": "",
             "para": "",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
-            "month": "Sep",
-            "date": "26",
+            "month": "",
+            "date": "",
             "head": "",
             "para": "",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
-            "month": "Sep",
-            "date": "25",
+            "month": "",
+            "date": "",
             "head": "",
             "para": "",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
-            "month": "Sep",
-            "date": "25",
+            "month": "",
+            "date": "",
             "head": "",
             "para": "",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
@@ -46,7 +46,7 @@
     "gallery": {
         "row1": [
             {
-                "image": "https://mulearn.org/assets/home/illustration.webp"
+                "image": "https://i.postimg.cc/50Q9ySsP/Whats-App-Image-2025-10-06-at-13-28-14-8da21f10.jpg"
             },
             {
                 "image": "https://mulearn.org/assets/home/Chart.webp"
@@ -76,35 +76,35 @@
     "team": {
         "staffAdvisor": {
             "name": "Soumya P G",
-            "image": ""
+            "image": "https://i.postimg.cc/0QvzmmmC/Whats-App-Image-2025-10-22-at-10-36-23-92d87fa4.jpg"
         },
         "campusLead": {
             "name": "",
             "image": "https://drive.google.com/uc?export=view&id=1c7k3QItG65V9b8X_HXZiBCZzW5nv_73t"
         },
         "campusCoLead": {
-            "name": "eee",
+            "name": "",
             "image": ""
         },
         "treasurer": {
             "name": "Soumya P G",
-            "image": ""
+            "image": "https://i.postimg.cc/0QvzmmmC/Whats-App-Image-2025-10-22-at-10-36-23-92d87fa4.jpg"
         },
         "technicalLead": {
             "name": "Anas",
-            "image": "https://drive.google.com/uc?export=view&id=1l53A1NtiK9aTPqu8XxmpPgtulD0QVMIL"
+            "image": "https://i.postimg.cc/ncqqPvY2/Screenshot-2025-10-22-220107.png"
         },
         "mediaLead": {
             "name": "Meera Vinod",
             "image": "https://i.postimg.cc/7ZgZmL33/Whats-App-Image-2025-10-20-at-20-27-27-5448148d.jpg"
         },
         "contentLead": {
-            "name": "Moothumma",
-            "image": "src/Components/Team/assets/Niya.jpg"
+            "name": "Niya",
+            "image": "https://i.postimg.cc/3Jr3shgx/Screenshot-2025-10-22-220415.png"
         },
         "operationLead": {
             "name": "Srinisha Balu",
-            "image": "src/Components/Team/assets/srinisha.jpg"
+            "image": "https://i.postimg.cc/XvrJTW6v/Screenshot-2025-10-22-220305.png"
         }
     },
 
