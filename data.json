@@ -10,35 +10,35 @@
             "month": "Sep",
             "date": "29",
             "head": "Event 1",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "para": "",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
             "month": "Sep",
             "date": "27",
             "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "para": "",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
             "month": "Sep",
             "date": "26",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "head": "",
+            "para": "",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
             "month": "Sep",
             "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "head": "",
+            "para": "",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
             "month": "Sep",
             "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "head": "",
+            "para": "",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         }
     ],
@@ -68,8 +68,8 @@
     "statistics": {
         "studentsCount": 30,
         "learningCircles": 10,
-        "InterestGroups": 5,
-        "karmaEarned": 60,
+        "InterestGroups": 2,
+        "karmaEarned": 4000,
         "rank": 28
     },
 
@@ -79,7 +79,7 @@
             "image": ""
         },
         "campusLead": {
-            "name": "Aswin",
+            "name": "",
             "image": "https://drive.google.com/uc?export=view&id=1c7k3QItG65V9b8X_HXZiBCZzW5nv_73t"
         },
         "campusCoLead": {
@@ -91,32 +91,32 @@
             "image": ""
         },
         "technicalLead": {
-            "name": "Anas ikku",
+            "name": "Anas",
             "image": "https://drive.google.com/uc?export=view&id=1l53A1NtiK9aTPqu8XxmpPgtulD0QVMIL"
         },
         "mediaLead": {
             "name": "Meera Vinod",
-            "image": "https://drive.google.com/uc?export=view&id=1w-uWBruQPNOn38rMnFC4I__rXUHrmsYr"
+            "image": "src/Components/Team/assets/Meera.jpg"
         },
         "contentLead": {
             "name": "Moothumma",
-            "image": "https://drive.google.com/uc?export=view&id=1iqluUl1xAU8qfg2a_rDBl8WRGVwHr8Po"
+            "image": "src/Components/Team/assets/Niya.jpg"
         },
         "operationLead": {
             "name": "Srinisha Balu",
-            "image": "https://drive.google.com/uc?export=view&id=1P29rXsv86nqOE4iz9dNLyy9ns8WJV-rx"
+            "image": "src/Components/Team/assets/srinisha.jpg"
         }
     },
 
-    "discordLink": "",
+    "discordLink": "https://discord.gg/9GTCk5us",
 
-    "whatsAppLink": "",
+    "whatsAppLink": "https://chat.whatsapp.com/F9r66cootH9CcXaKkIB4a0",
 
     "email": "",
 
     "linkedIn": "",
 
-    "instagram": "",
+    "instagram": "https://www.instagram.com/mulearn_msc/",
 
     "twitter": "",
 
